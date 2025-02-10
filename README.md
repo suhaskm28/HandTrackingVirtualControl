@@ -48,7 +48,7 @@ This project implements a real-time hand-tracking application that allows users 
 - Better handling of different lighting conditions and hand orientations.
 
 ## Contributors
-- [Your Name](https://github.com/your-username)
+- [Suhas K M]((https://github.com/suhaskm28))
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
